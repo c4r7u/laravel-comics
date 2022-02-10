@@ -1,0 +1,39 @@
+header {
+    .pre-header {
+        background-color: #0082f9;
+        height: 20px;
+        width: 100%;
+        display: flex;
+    }
+
+    .items {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    .pre-items {
+        font-size: 10px;
+        color: white;
+        display: flex;
+        margin-left: 50px;
+    }
+
+    .nav-link {
+        font-size: 13px;
+        color: black;
+    }
+
+    .my-style {
+        display: flex;
+        border-bottom: 2px solid #0082f9;
+        font-size: 13px;
+    }
+
+    .style {
+        border: none;
+        background-color: #f8f9fa;
+    }
+}

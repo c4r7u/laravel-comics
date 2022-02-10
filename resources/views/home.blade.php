@@ -5,5 +5,5 @@
 @endsection
 
 @section('main_content')
-    <h1>ciao sono la homepage</h1>    
+    <h1>Ciao sono la homepage</h1>    
 @endsection

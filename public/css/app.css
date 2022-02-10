@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Greta Sans Medium", "Greta Sans Regular", Arial, sans-serif;
+}
+
+.container {
+  width: 80%;
+  height: auto;
+  margin-left: 119px;
+}
+
+header .pre-header {
+  background-color: #0082f9;
+  height: 20px;
+  width: 100%;
+  display: flex;
+}
+
+header .items {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+header .pre-items {
+  font-size: 10px;
+  color: white;
+  display: flex;
+  margin-left: 50px;
+}
+
+header .nav-link {
+  font-size: 13px;
+  color: black;
+}
+
+header .my-style {
+  display: flex;
+  border-bottom: 2px solid #0082f9;
+  font-size: 13px;
+}
+
+header .style {
+  border: none;
+  background-color: #f8f9fa;
+}
+
