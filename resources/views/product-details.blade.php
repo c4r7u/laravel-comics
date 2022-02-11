@@ -1,16 +1,11 @@
 @extends('layouts.app')
 
 @section('page_title')
-    Comics
+Product Details
 @endsection
 
 @section('main_content')
 
-
-    @include('components.comics-list')
-
-
-    @include('components.pre-footer') 
-
-
+    @include('components.single-comic-details') 
+    
 @endsection
